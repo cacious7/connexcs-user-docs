@@ -107,6 +107,7 @@ nav:
             - User: setup/settings/users.md
             - Options: setup/settings/options.md
             - Data Retention: setup/settings/data-retention.md
+            - RTP Zones: setup/settings/rtp-zones.md
         - Config:
             - Contracts: setup/config/contracts.md
             - Packages: setup/config/packages.md
